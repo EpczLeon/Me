@@ -18,3 +18,10 @@
 </div><br/>
 
 Fascinado por tecnologia, sempre buscando aprender mais e testar meus conhecimentos em programação, focado em front-end como meu primeiro passo.
+
+## Meu Projeto de currículo em HTML
+
+Este é um projeto incrível que desenvolvi para demonstrar minhas habilidades em HTML.
+
+Para saber mais, visite [aqui]([https://github.com/seu-usuario/seu-projeto](https://github.com/EpczLeon/Meus-projetos/tree/main/Curr%C3%ADculo%20HTML)).
+
