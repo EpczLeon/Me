@@ -20,4 +20,4 @@ Este é um projeto incrível que desenvolvi para demonstrar minhas habilidades e
 
 Para saber mais, visite [meu repositório no GitHub](https://github.com/EpczLeon/Meus-projetos/tree/main/Curr%C3%ADculo%20HTML).
 
-🔗 **Acesse a página do projeto:** [Currículo HTML](URL_DA_PAGINA_DO_PROJETO)
+🔗 **Acesse a página do projeto:** [Currículo HTML](URL_DA_PAGINA_DO_PROJETO) , https://roadmap.sh/projects/single-page-cv
