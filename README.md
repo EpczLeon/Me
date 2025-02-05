@@ -17,4 +17,4 @@
     <img align="center" alt="Java Script" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div><br/>
 
-Fascinado por tecnologia, sempre buscando aprender mais e testar meus conhecimentos em programação.
+Fascinado por tecnologia, sempre buscando aprender mais e testar meus conhecimentos em programação, focado em front-end como meu primeiro passo.
